@@ -1,1 +1,7 @@
-
+{"known_mods":
+  [
+    {"name":"PD Mini", "url":"https://github.com/NYRDS/PD_mini-RPD-MOD/archive/mini.0.10.zip"},
+    {"name":"The Dungeon of Heroes", "url":"https://github.com/NYRDS/The-dungeon-of-heroes-RPD-MOD/archive/tdoh.2.1.zip"},
+    ["name":"D.U.N.G.E.O.N", "url":"https://bitbucket.org/AlexeyRadionov/d.u.n.g.e.o.n/get/master.zip"}
+  ]
+}
