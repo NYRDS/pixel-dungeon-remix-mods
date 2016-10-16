@@ -6,18 +6,18 @@
         "url": "https://github.com/NYRDS/PD_mini-RPD-MOD/archive/restricted.zip",
         "version": 11
       }
+    ],
+    "ru": [
+      {
+        "name": "The Dungeon of Heroes",
+        "url": "https://github.com/NYRDS/The-dungeon-of-heroes-RPD-MOD/archive/tdoh.2.1.zip",
+        "version": 0
+      },
+      {
+        "name": "D.U.N.G.E.O.N",
+        "url": "https://bitbucket.org/AlexeyRadionov/d.u.n.g.e.o.n/get/master.zip",
+        "version": 0
+      }
     ]
-  },
-  "ru": [
-    {
-      "name": "The Dungeon of Heroes",
-      "url": "https://github.com/NYRDS/The-dungeon-of-heroes-RPD-MOD/archive/tdoh.2.1.zip",
-      "version": 0
-    },
-    {
-      "name": "D.U.N.G.E.O.N",
-      "url": "https://bitbucket.org/AlexeyRadionov/d.u.n.g.e.o.n/get/master.zip",
-      "version": 0
-    }
-  ]
+  }
 }
