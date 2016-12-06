@@ -22,6 +22,11 @@
         "name": "Maze",
         "url": "https://github.com/OCMT/Mod/raw/master/Maze.zip",
         "version": 4
+      },
+      {
+        "name": "The Fallen",
+        "url": "https://github.com/OCMT/Mod/raw/master/The%20Fallen.zip"?
+        "version": 1
       }
     ]
   }
