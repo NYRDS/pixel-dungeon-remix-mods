@@ -26,12 +26,15 @@
         "url": "https://github.com/OCMT/Mod/raw/master/Maze.zip",
         "version": 4,
         "rpdVersion": 0
+<<<<<<< HEAD
       },
       {
         "name": "The Fallen",
         "url": "https://github.com/OCMT/Mod/raw/master/The%20Fallen.zip",
         "version": 1,
 		"rpdVersion": 360
+=======
+>>>>>>> refs/remotes/NYRDS/master
       }
     ]
   }
