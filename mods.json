@@ -23,15 +23,15 @@
       },
       {
         "name": "Maze",
-        "url": "https://github.com/OCMT/Mod/raw/master/Maze.zip",
+        "url": "https://github.com/NYRDS/Maze-RPD-MOD/archive/master.zip",
         "version": 5,
-        "rpdVersion": 0
+        "rpdVersion": 360
       },
       {
         "name": "The Fallen",
-        "url": "https://github.com/OCMT/Mod/raw/master/The%20Fallen",
+        "url": "https://github.com/NYRDS/The-Fallen-RPD-MOD/archive/master.zip",
         "version": 3,
-		"rpdVersion": 0
+	"rpdVersion": 360
       }
     ]
   }
