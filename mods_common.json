@@ -6,6 +6,12 @@
         "url": "https://github.com/NYRDS/PD_mini-RPD-MOD/archive/master.zip",
         "version": 12,
         "rpdVersion": 0
+      },
+	  {
+        "name": "PD Vanila",
+        "url": "https://github.com/DeadDie44/RPD-Vanilla-Mod",
+        "version": 1,
+        "rpdVersion": 0
       }
     ],
     "ru": [
