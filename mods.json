@@ -18,7 +18,13 @@
         "url": "https://github.com/OCMT/The-Fallen-Zero-RPD_MOD/archive/master.zip",
         "version": 1,
         "rpdVersion": 434
-      },      
+      },
+      {
+        "name": "The Fallen",
+        "url": "https://github.com/NYRDS/The-Fallen-RPD-MOD/archive/master.zip",
+        "version": 8,
+        "rpdVersion": 426
+      },
       {
         "name": "PD Vanila",
         "url": "https://github.com/DeadDie44/RPD-Vanilla-Mod/archive/master.zip",
