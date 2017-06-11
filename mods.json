@@ -14,6 +14,12 @@
         "rpdVersion": 414
       },
       {
+        "name": "Fallen.Zero",
+        "url": "https://github.com/OCMT/The-Fallen-Zero-RPD_MOD/archive/master.zip",
+        "version": 1,
+        "rpdVersion": 434
+      },      
+      {
         "name": "PD Vanila",
         "url": "https://github.com/DeadDie44/RPD-Vanilla-Mod/archive/master.zip",
         "version": 10,
