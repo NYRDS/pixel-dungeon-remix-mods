@@ -22,13 +22,8 @@
       {
         "name": "The Fallen",
         "url": "https://github.com/NYRDS/The-Fallen-RPD-MOD/archive/master.zip",
-<<<<<<< HEAD
-<<<<<<< HEAD
         "version": 4,
 	"rpdVersion": 426
-=======
-=======
->>>>>>> refs/remotes/NYRDS/master
         "version": 7,
         "rpdVersion": 426
       },
@@ -37,10 +32,6 @@
         "url": "https://github.com/DeadDie44/RPD-Vanilla-Mod/archive/master.zip",
         "version": 10,
         "rpdVersion": 0
-<<<<<<< HEAD
->>>>>>> refs/remotes/NYRDS/master
-=======
->>>>>>> refs/remotes/NYRDS/master
       }
     ],
     "ru": [
