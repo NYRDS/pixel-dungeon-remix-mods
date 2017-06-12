@@ -10,28 +10,39 @@
       {
         "name": "Maze",
         "url": "https://github.com/NYRDS/Maze-RPD-MOD/archive/master.zip",
-        "version": 5,
-        "rpdVersion": 360
+        "version": 10,
+        "rpdVersion": 414
       },
       {
         "name": "The Fallen",
         "url": "https://github.com/NYRDS/The-Fallen-RPD-MOD/archive/master.zip",
+<<<<<<< HEAD
         "version": 4,
 	"rpdVersion": 426
+=======
+        "version": 7,
+	"rpdVersion": 386
+      },
+	  {
+        "name": "PD Vanila",
+        "url": "https://github.com/DeadDie44/RPD-Vanilla-Mod/archive/master.zip",
+        "version": 10,
+        "rpdVersion": 0
+>>>>>>> refs/remotes/NYRDS/master
       }
     ],
     "ru": [
       {
         "name": "The Dungeon of Heroes",
-        "url": "https://github.com/NYRDS/The-dungeon-of-heroes-RPD-MOD/archive/tdoh.2.1.zip",
-        "version": 0,
+        "url": "https://github.com/NYRDS/The-dungeon-of-heroes-RPD-MOD/archive/master.zip",
+        "version": 1,
         "rpdVersion": 0
       },
       {
         "name": "D.U.N.G.E.O.N",
         "url": "https://bitbucket.org/AlexeyRadionov/d.u.n.g.e.o.n/get/master.zip",
-        "version": 0,
-        "rpdVersion": 0
+        "version": 5,
+        "rpdVersion": 401
       }
     ]
   }
