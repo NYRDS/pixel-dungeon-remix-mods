@@ -44,6 +44,12 @@
         "url": "https://bitbucket.org/AlexeyRadionov/d.u.n.g.e.o.n/get/master.zip",
         "version": 5,
         "rpdVersion": 401
+      },
+      {
+        "name": "Conundrum",
+        "url": "https://github.com/NYRDS/Conundrum/archive/master.zip",
+        "version": 10,
+        "rpdVersion": 441
       }
     ]
   }
