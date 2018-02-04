@@ -38,6 +38,12 @@
         "url": "https://github.com/NYRDS/Conundrum/archive/master.zip",
         "version": 20,
         "rpdVersion": 480
+      },
+      {
+        "name": "Faith",
+        "url": "https://github.com/PavelProvotorov/RPD-Faith-Mod/archive/master.zip",
+        "version": 1,
+        "rpdVersion": 492
       }
     ]
   }
