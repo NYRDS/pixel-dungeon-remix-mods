@@ -10,7 +10,7 @@
       {
         "name": "Maze",
         "url": "https://github.com/NYRDS/Maze-RPD-MOD/archive/master.zip",
-        "version": 21,
+        "version": 22,
         "rpdVersion": 568
       },
       {
@@ -36,8 +36,8 @@
       {
         "name": "Conundrum",
         "url": "https://github.com/NYRDS/Conundrum/archive/master.zip",
-        "version": 20,
-        "rpdVersion": 480
+        "version": 21,
+        "rpdVersion": 568
       },
       {
         "name": "Faith",
