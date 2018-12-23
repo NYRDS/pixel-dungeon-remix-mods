@@ -23,9 +23,9 @@
     "ru": [
       {
         "name": "The Dungeon of Heroes",
-        "url": "https://github.com/NYRDS/The-dungeon-of-heroes-RPD-MOD/archive/master.zip",
-        "version": 1,
-        "rpdVersion": 0
+        "url": "https://github.com/NYRDS/The-dungeon-of-heroes-RPD-MOD/archive/tdoh_bi_2.zip",
+        "version": 2,
+        "rpdVersion": 610
       },
       {
         "name": "D.U.N.G.E.O.N",
