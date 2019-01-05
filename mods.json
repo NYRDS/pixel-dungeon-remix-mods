@@ -18,6 +18,12 @@
         "url": "https://github.com/DeadDie44/RPD-Vanilla-Mod/archive/master.zip",
         "version": 10,
         "rpdVersion": 0
+      },
+      {
+        "name": "Faith",
+        "url": "https://github.com/NYRDS/RPD-Faith-Mod/archive/v5.zip",
+        "version": 5,
+        "rpdVersion": 610
       }
     ],
     "ru": [
@@ -38,12 +44,6 @@
         "url": "https://github.com/NYRDS/Conundrum/archive/master.zip",
         "version": 22,
         "rpdVersion": 568
-      },
-      {
-        "name": "Faith",
-        "url": "https://github.com/PavelProvotorov/RPD-Faith-Mod/archive/master.zip",
-        "version": 4,
-        "rpdVersion": 536
       }
     ]
   }
