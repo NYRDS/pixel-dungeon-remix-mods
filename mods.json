@@ -44,6 +44,12 @@
         "url": "https://nyrds.github.io/NYRDS/ru/Conundrum.zip",
         "version": 22,
         "rpdVersion": 568
+      },
+      {
+        "name": "The mobs and items",
+        "url": "https://nyrds.github.io/NYRDS/ru/The_mobs_and_items.zip",
+        "version": 1,
+        "rpdVersion": 643
       }
     ]
   }
